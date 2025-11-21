@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: argo-manager
+Version: 0.1.0
+Summary: Small ArgoCD multi-cluster manager
+Author: Your Name
+License: MIT
+Description-Content-Type: text/markdown
+
+# argo-manager
+
+Small CLI wrapper around the ArgoCD CLI for multi-cluster workflows.
+
+Install locally:
+
+```bash
+python3 -m pip install --upgrade pip
+pip install .
+```
+
+Usage:
+
+```bash
+argo-manager app --help
+```
