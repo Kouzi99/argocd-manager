@@ -1,0 +1,2 @@
+[console_scripts]
+argo-manager = argocd_manager.cli:run

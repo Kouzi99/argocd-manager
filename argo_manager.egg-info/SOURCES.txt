@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+argo_manager.egg-info/PKG-INFO
+argo_manager.egg-info/SOURCES.txt
+argo_manager.egg-info/dependency_links.txt
+argo_manager.egg-info/entry_points.txt
+argo_manager.egg-info/top_level.txt
+argocd_manager/__init__.py
+argocd_manager/cli.py
+argocd_manager/colors.py
+argocd_manager/config.py
+argocd_manager/logger.py
+argocd_manager/manager.py
